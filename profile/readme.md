@@ -9,9 +9,9 @@
 - **工具生态**：开发并维护好用、好玩、开箱即用的工具集，提升开发效率与体验
 
 ## 🤝 如何参与
-- 浏览我们的[精选项目](https://github.com/ylzoslab/repositories)，找到感兴趣的方向
-- 通过[Issues](https://github.com/ylzoslab/.github/issues)提交建议或反馈
-- 参与[讨论区](https://github.com/orgs/ylzoslab/.github/discussions)交流技术心得
+- 浏览我们的 [精选项目](https://github.com/ylzoslab/repositories)，找到感兴趣的方向
+- 通过 [Issues](https://github.com/ylzoslab/.github/issues) 提交建议或反馈
+- 参与[ 讨论区](https://github.com/orgs/ylzoslab/.github/discussions) 交流技术心得
 - 贡献代码、文档或创意，成为社区共建者
 
 ## 📢 最新动态
