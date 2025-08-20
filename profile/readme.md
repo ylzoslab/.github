@@ -11,7 +11,7 @@
 ## 🤝 如何参与
 - 浏览我们的 [精选项目](https://github.com/ylzoslab/repositories)，找到感兴趣的方向
 - 通过 [Issues](https://github.com/ylzoslab/.github/issues) 提交建议或反馈
-- 参与[ 讨论区](https://github.com/orgs/ylzoslab/.github/discussions) 交流技术心得
+- 参与[ 讨论区](https://github.com/orgs/ylzoslab/discussions) 交流技术心得
 - 贡献代码、文档或创意，成为社区共建者
 
 ## 📢 最新动态
